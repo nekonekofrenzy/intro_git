@@ -2,3 +2,4 @@
 gitを学習中です．
 ・git add
 ・git commit
+・git rm
